@@ -1,6 +1,6 @@
-[submodule "LeaningSystem-bakend"]
-	path = LeaningSystem-bakend
-	url = https://gitee.com/enhead/LeaningSystem-bakend.git
-[submodule "LeaningSystem-frontend"]
-	path = LeaningSystem-frontend
-	url = https://gitee.com/enhead/LeaningSystem-frontend.git
+[submodule "LearningSystem-bakend"]
+	path = LearningSystem-bakend
+	url = https://gitee.com/enhead/LearningSystem-bakend.git
+[submodule "LearningSystem-frontend"]
+	path = LearningSystem-frontend
+	url = https://gitee.com/enhead/LearningSystem-frontend.git
