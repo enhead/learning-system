@@ -1,9 +1,9 @@
 # LearningSystem 智能教育管理系统
 
-> 完整项目地址：https://gitee.com/enhead/learning-system
+> 完整项目地址：https://github.com/enhead/learning-system
 >
-> - 后端：https://gitee.com/enhead/LearningSystem-bakend.git
-> - 前端：https://gitee.com/enhead/LearningSystem-frontend.git
+> - 后端：https://github.com/enhead/LearningSystem-bakend.git
+> - 前端：https://github.com/enhead/LearningSystem-frontend.git
 
 ## 项目简介
 
